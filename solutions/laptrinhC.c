@@ -1,3 +1,4 @@
+/*
 //
 ////int TinhTong(){
 ////    int a;
@@ -278,7 +279,7 @@
 //        scanf("%d", &a[i]);
 //    }
 //    for(int i=0;i<n;i++){
-//        printf("%d", a[i]);
+//        printf("%d", a[i]);i
 //    }
 //    xoakihieu( &n, a);
 //    for(int i=0;i<n;i++){
@@ -388,3 +389,4 @@ int main(){
 //
 // Created by Admin on 9/18/2023.
 //
+*/
